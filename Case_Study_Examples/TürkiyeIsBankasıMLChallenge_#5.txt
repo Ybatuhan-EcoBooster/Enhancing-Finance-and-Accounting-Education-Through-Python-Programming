@@ -1,0 +1,3 @@
+GitHub Solution: https://github.com/Ybatuhan-EcoBooster/Turkey_IsBank_MLChallenge5_Solution
+
+Kaggle: https://www.kaggle.com/competitions/turkiye-is-bankasi-ml-challenge-5
