@@ -27,7 +27,7 @@ Curriculum of Python programming for Accounting and Finance 📅
     -  🗂Overview of Python Programming in Accounting and Finance
         -  📑[Introduction of Python Programming for Accounting and Finance Students](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/Introduction%20Python%20Programming.pdf)
     -  🗂Setting Up Python Programming Environment for Financial Applications
-        -  📑Downloading and setting up Python Programming inside of PC
+        -  📑[Downloading and setting up Python Programming inside of PC](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/Setting%20Up%20Python%20Programming.pdf)
 2.	**🗃Basic Introduction to Python Programming**
      -  🗂[Python Programming Fundamentals](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/Fundamentel_Courses)
          - 📑[Fundamentals Elements of Python Programming](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/Fundamentel_Courses/1_Fundamentels.ipynb)
