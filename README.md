@@ -1,11 +1,11 @@
 <h2 align="center">
-Enhancing-Finance-and-Accounting-Education-Through-Python-Programming</a>
+♾Enhancing-Finance-and-Accounting-Education-Through-Python-Programming♾</a>
 </h2>
 <h2 align="left">
 </h2>
 
 <h4 align="center">
-Prepared By Batuhan Yıldırım and Nur Syamimi Mohamad Suhaimi
+✒️Prepared By Batuhan Yıldırım and Nur Syamimi Mohamad Suhaimi
 </h4> 
 
 <h5 align="center">
@@ -13,7 +13,7 @@ Prepared By Batuhan Yıldırım and Nur Syamimi Mohamad Suhaimi
 </h5> 
 
 <img src="https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/Logo/Green%20Modern%20Digital%20Service%20Logo.png" alt="notion avatar" width="250" height="250" align="right">
-We are a committed group of students who recognize the value of programming abilities in the accounting and finance industries. Python is a programming language that is quite popular and versatile. It is becoming a very important tool for financial modeling, automation, and data analysis. We are here to help students on their path to mastering Python so they can use it to solve challenging accounting challenges, simplify financial processes, and make wise judgments.
+🔖We are a committed group of students who recognize the value of programming abilities in the accounting and finance industries. Python is a programming language that is quite popular and versatile. It is becoming a very important tool for financial modeling, automation, and data analysis. We are here to help students on their path to mastering Python so they can use it to solve challenging accounting challenges, simplify financial processes, and make wise judgments.
 
 *  Gain expertise in Python programming by joining our active community of finance and accounting students on our website and Udemy. This is a crucial skill for students' future professional endeavors. Our specialized courses help students stand out in the competitive job market by covering Python foundations, practical applications, and career growth. Discover how to use Python for financial modeling, automation, and data analysis. Students may also connect with mentors and peers who share their interests. Empower themselves with the comprehensive resources needed for academic excellence and a prosperous future in the finance and accounting industries, available on both our website and Udemy.
 
@@ -80,10 +80,10 @@ Curriculum of Python programming for Accounting and Finance 📅
      -  🗂[Real Life Case Studies](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/Reallife_Case_Study_and_big_data)
   
 
-## Beneficiary of The Project
+## 🧭Beneficiary of The Project
 > By providing finance and accounting students with useful Python programming skills, the project's implementation will aim to empower them and boost their employability, academic performance, productivity, and career prospects. It helps students individually as well as having larger effects on the financial industry and the economy as a whole.
 
 ---
 
-## 📌[Our Offical Website Link](https://academycourse.framer.ai/page)
+## 🌐[Our Offical Website Link](https://academycourse.framer.ai/page)
    
