@@ -49,13 +49,13 @@ Curriculum of Python programming for Accounting and Finance 📅
          - 📑[Graphs](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/Fundamentel_Courses/17_Graphs.ipynb)
     - 🗂[Overview of Machine Learning in Python Programming](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/MachineLearning_Example)
         - 📑[Sckit Learning](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/MachineLearning_Example/Scikit-Learn.ipynb)
-        - 📑[CatBoost](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/MachineLearning_Example/Catbooster.ipynb)
+        - 📑[CatBoost Learning](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/MachineLearning_Example/Catbooster.ipynb)
 3.  **🗃API Integration for Financial Analysis**
        -  🗂[Understanding APIs in the Financial Industry](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/API%20Introduction)
            - 📑[API introduction for Finance and Accounting Students](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/API%20Introduction/API%20Introduction.pdf)
        -   🗂[Importing and Extracting Big Data with Python](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/API%20Introduction)
            - 📑API importing inisde of Python Programming Environment
-           - 📑[Yahoo Finance](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/API%20Introduction/Yahoo_Finance_Data_Set.ipynb)
+           - 📑[Yahoo Finance Library](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/API%20Introduction/Yahoo_Finance_Data_Set.ipynb)
            - 📑[Alpha Vantage API](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/API%20Introduction/AlphaVantage_Data_Set.ipynb)
            - 📑[Tiingo API](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/API%20Introduction/Tiingo.ipynb)
            - 📑[Financial Modeling Prep API](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/API%20Introduction/Financial_Modeling_Prep.ipynb)
@@ -78,7 +78,7 @@ Curriculum of Python programming for Accounting and Finance 📅
        - 📑[Financial Statements Applications Analysis](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/FinancialFormulas/Financial_formulas.ipynb)
 7. **🗃Capstone Project**
      -  🗂[Real Life Case Studies](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/Reallife_Case_Study_and_big_data)
-  
+          ‼️ Please use the note link for reaching project solution and data sets
 
 ## 🧭Beneficiary of The Project
 > By providing finance and accounting students with useful Python programming skills, the project's implementation will aim to empower them and boost their employability, academic performance, productivity, and career prospects. It helps students individually as well as having larger effects on the financial industry and the economy as a whole.
@@ -86,4 +86,7 @@ Curriculum of Python programming for Accounting and Finance 📅
 ---
 
 ## 🌐[Our Offical Website Link](https://academycourse.framer.ai/page)
+
+## Next Step 🔜
+We will add the new Real Life Example and More Finance and Accounting Applications
    
