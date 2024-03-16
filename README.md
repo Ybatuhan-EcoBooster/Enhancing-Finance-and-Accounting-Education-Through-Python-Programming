@@ -64,17 +64,17 @@ Curriculum of Python programming for Accounting and Finance 📅
       -    🗂[Data Analysis](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/Data_Analysis/Data_Analysis_Example.ipynb)
 5.   **🗃Big Data Applications in Accounting and Finance**
        -  🗂Overview of Big Data in Finance and Accounting
-           -  📑Intoduction of Big Data
+           -  📑[Intoduction of Big Data](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/Reallife_Case_Study_and_big_data/Introduction%20of%20Big%20Data.pdf)
        -  🗂Case Studies in Big Data for Financial Deceisons-Making
            -  📑[Real Life Case Studies of Big Data](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/Reallife_Case_Study_and_big_data)
 6. **🗃Finance and Accounting Applications**
      -  🗂[Monte Carlo Simulation for Finance Products](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/FinancialFormulas)
-        - 📑Introduction to Monte Carlo Simulation in Finance
+        - 📑[Introduction to Monte Carlo Simulation in Finance](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/FinancialFormulas/Introduction%20of%20Monte%20Carlo%20Simulation%20in%20Finance.pdf)
         - 📑[Simulating Monte Carlo with Python](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/FinancialFormulas/Monte_Carlo_Simulation.ipynb)
     -  🗂[Risk Measures and Portfolio Optimization](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/Portfolio_Optimization)
         - 📑[Portfolio Optimization with Python Programming](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/Portfolio_Optimization/Portfolio_Optimization.ipynb)
     -  🗂[Financial Statements Analysis](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/FinancialFormulas)
-       - 📑Introduction of Financial Statements
+       - 📑[Introduction of Financial Statements](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/FinancialFormulas/Introduction%20of%20Financial%20Statements.pdf)
        - 📑[Financial Statements Applications Analysis](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/blob/main/FinancialFormulas/Financial_formulas.ipynb)
 7. **🗃Capstone Project**
      -  🗂[Real Life Case Studies](https://github.com/Ybatuhan-EcoBooster/Enhancing-Finance-and-Accounting-Education-Through-Python-Programming/tree/main/Reallife_Case_Study_and_big_data)
